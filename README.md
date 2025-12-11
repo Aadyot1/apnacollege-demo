@@ -1,4 +1,4 @@
 # apnacollege-demo
 One of my first Git Repository 
 <br>
-Author - Aadyot 
+Author - Aadyot Nandan 
